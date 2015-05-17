@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AspNetIdentitySample.App_Start.Identity
+namespace AspNetIdentitySample.Identity
 {
     public class GoogleAuthenticatorTokenProvider : IUserTokenProvider<ApplicationUser, string>
     {

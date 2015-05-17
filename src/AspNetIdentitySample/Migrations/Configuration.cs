@@ -11,7 +11,7 @@ namespace AspNetIdentitySample.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
-            ContextKey = "IdentitySample.Models.ApplicationDbContext";
+            ContextKey = "AspNetIdentitySample.Models.ApplicationDbContext";
         }
 
         protected override void Seed(ApplicationDbContext context)

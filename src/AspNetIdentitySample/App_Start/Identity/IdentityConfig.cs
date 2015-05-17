@@ -1,12 +1,11 @@
-﻿using System;
-using System.Linq;
-using System.Threading.Tasks;
-using AspNetIdentitySample.Models;
+﻿using AspNetIdentitySample.Models;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
-using AspNetIdentitySample.App_Start.Identity;
+using System;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace AspNetIdentitySample.Identity
 {
